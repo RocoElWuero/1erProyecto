@@ -1,0 +1,92 @@
+html {background-color: #283747;}
+body {margin: 0 auto;}
+.formulario	/* NO MODIFICAR !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+{
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 20px;
+	border: 4px solid #DC143C;
+	width: 400px;
+	height: auto;
+	background-color: #4169E1;
+	padding: 1em;
+	margin-left: auto;
+	margin-right: auto;
+
+	box-shadow: 1px 1px 20px 5px #555;
+	/*Es la Sombra del Formulario*/
+	/*<Horizontal><Vertical><"blur"Difuminado> <"Exper"Exparsior de la Sombra> #Color->Sombra */
+}
+.formulario2
+{
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 20px;
+	border: 4px solid #FFD700;
+	width: 600px;
+	height: 450px;
+	background-color: ThreeDHighlight;
+	padding: 1em;
+	margin-left: auto;
+	margin-right: auto;
+
+	box-shadow: 1px 1px 20px 5px #555;
+	/*Es la Sombra del Formulario*/
+	/*<Horizontal><Vertical><"blur"Difuminado> <"Exper"Exparsior de la Sombra> #Color->Sombra */
+}
+.formularioPadre
+{
+	margin-top: 0.7em;
+
+	margin: 0 auto;
+	text-align: center;
+	border: 4px solid #A52A2A;
+	background-color: ThreeDDarkShadow;
+	width: auto;
+	height: auto;
+	padding: 1em;
+	margin-left: auto;
+	margin-right: auto;
+
+	box-shadow: 1px 1px 20px 5px #555;
+	/*Es la Sombra del Formulario*/
+	/*<Horizontal><Vertical><"blur"Difuminado> <"Exper"Exparsior de la Sombra> #Color->Sombra */
+}
+.btn	/* NO MODIFICAR !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+{
+	font-family: sans-serif;
+	background-color: #DC143C;
+	width: 10%;/*Estan al 80% del Formulario, X K en el HTML estan Dentro del form*/
+	color: white;
+	margin-top: 0.5em;
+	outline: none;
+	padding: 0.75em;
+	border: none;
+}
+.btn:active	/* NO MODIFICAR !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+{
+	font-family: sans-serif;
+	background-color: #8B0000;
+	box-shadow: 1px 1px 5px 3px #333;
+}
+.texto2
+{
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+}
+.texto3
+{
+	color: #F1C40F;
+	margin: 0 auto;
+}
+.footerEstilo	/* NO MODIFICAR !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+{
+	background: rgb(255, 20, 50);
+}
+.formaFooter1	/* NO MODIFICAR !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+{
+	margin: 0 auto;
+	max-width: 1280px;
+	width: 90%;
+}

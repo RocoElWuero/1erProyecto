@@ -1,0 +1,72 @@
+html {background-color: #283747;}
+body {margin: 0 auto;}
+.texto
+{
+	background-color: transparent;
+	margin: 0 auto;
+	text-align: center;
+	list-style-type: arabic-indic;
+	color: red;
+}
+.formulario
+{
+	margin: 0 auto;/*Centrado en la ventana*/
+	text-align: center;
+	border-radius: 20px;/*Esquinas Curvas*/
+	border: 3px solid #F1C40F;
+	width: 30%;
+	height: auto;
+}
+.formulario2
+{
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 20px;
+	border: 3px solid #F1C40F;
+	width: 50%;
+	height: 225px;
+	background-color: #191970;
+	padding: 1em;
+
+	box-shadow: 1px 1px 20px 5px #555;
+	/*Es la Sombra del Formulario*/
+	/*<Horizontal><Vertical><"blur"Difuminado> <"Exper"Exparsior de la Sombra> #Color->Sombra */
+}
+input.btn
+{
+	font-family: sans-serif;
+	background-color: #DAA520;
+	width: 80%;/*Estan al 80% del Formulario, X K en el HTML estan Dentro del form*/
+	color: #fff;
+	margin-top: 0.5em;
+	outline: none;
+	padding: 0.75em;
+	border: none;
+}
+input.btn:active
+{
+	font-family: sans-serif;
+	background-color: #B8860B;
+	box-shadow: 1px 1px 5px 3px #333;
+}
+.texto2
+{
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+}
+.texto3
+{
+	color: #F1C40F;
+	margin: 0 auto;
+}
+.footerEstilo
+{
+	background: rgb(255, 20, 50);
+}
+.formaFooter1
+{
+	margin: 0 auto;
+	max-width: 1280px;
+	width: 90%;
+}
